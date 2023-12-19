@@ -15,14 +15,31 @@ body {
     color: #ffffff;
 }
 
-.header h1 {
+/* Converted the .header h1 class to a selector instead */
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #d9dcd6;
+/* Converted the .header h3 class to a selector instead */
+h3 {
+    margin-top: 10px;
+    text-align: center;
 }
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Cleaned up the class name to not include .header h1 */
+.seo {
+    color: #d9dcd6;
+} 
 
 .header div {
     padding-top: 15px;
@@ -41,14 +58,7 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
 
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -77,6 +87,7 @@ p {
 
 .benefits {
     margin-right: 20px;
+    margin-bottom: 32px;
     padding: 20px;
     clear: both;
     float: right;
@@ -84,8 +95,12 @@ p {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
 
+/* For the benefit child classes their is no need to have multiples if you can add the properties to the .benefit class */
+
+/*
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -98,14 +113,15 @@ p {
 
 .benefit-cost {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #ffffff; 
 }
+*/
 
-.benefit-lead h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
 
+
+/* For h3 no need to have three classes. They are duplicates of one another */
+
+/*
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -113,8 +129,9 @@ p {
 
 .benefit-cost h3 {
     margin-bottom: 10px;
-    text-align: center;
+    text-align: center; 
 }
+*/
 
 .benefit-lead img {
     display: block;
@@ -134,7 +151,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+/* Converted to an id instead of a class*/
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -142,8 +160,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.online-reputation-management {
+/* Converted to an id instead of a class*/
+#online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -151,8 +169,8 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
-
-.social-media-marketing {
+/* Converted to an id instead of a class*/
+#social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
