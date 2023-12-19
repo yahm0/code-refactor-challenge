@@ -21,6 +21,11 @@ h1 {
     font-size: 48px;
 }
 
+h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 /* Converted the .header h3 class to a selector instead */
 h3 {
     margin-top: 10px;
@@ -98,7 +103,7 @@ p {
     color: #ffffff;
 }
 
-/* For the benefit child classes their is no need to have multiples if you can add the properties to the .benefit class */
+/* For the benefit child classes there is no need to have multiples if you can add the properties to the .benefit class */
 
 /*
 .benefit-lead {
@@ -191,6 +196,7 @@ p {
     max-height: 200px;
 }
 
+/*
 .search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -205,6 +211,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+*/
 
 .footer {
     padding: 30px;
@@ -213,6 +220,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+h4 {
     font-size: 20px;
 }
