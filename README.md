@@ -97,6 +97,6 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
 
 
-### Integration ( June 2023 as cited in GitLab) found in the webpage using this url: https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-12-2023-U-LOLC/-/blob/main/README.md?ref_type=heads (Walter Perry, December 2023 as sited on the UT Bootcamp GitLab Repo UTA-VIRT-FSF-PT-12-2023-U-LOLC)
+### Integration ( June 2023 as cited in GitLab) found on this webpage which can be accessed using this url: https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-12-2023-U-LOLC/-/blob/main/README.md?ref_type=heads (Walter Perry, December 2023 as sited on the UT Bootcamp GitLab Repo UTA-VIRT-FSF-PT-12-2023-U-LOLC)
 
 ## http://127.0.0.1:5500/02-Challenge/index.html
