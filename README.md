@@ -95,3 +95,6 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 > **Important**: It might take a few minutes for GitHub pages to display your site correctly. If your project does not deploy or display correctly, check that all file paths in your application are relative and use the right casing. GitHub is case-sensitive, an inccorect capital or lowercase letter could cause problems in deployment.
 
 Be sure to add, commit, and push your work to see the most up-to-date version of your app!
+
+
+## Integration ( June 2023 as cited in GitLab) found in the webpage using this url: https://git.bootcampcontent.com/University-of-Texas-at-Austin/UTA-VIRT-FSF-PT-12-2023-U-LOLC/-/blob/main/README.md?ref_type=heads (Walter Perry, December 2023 as sited on the UT Bootcamp GitLab Repo UTA-VIRT-FSF-PT-12-2023-U-LOLC)
